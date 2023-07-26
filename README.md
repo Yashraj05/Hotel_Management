@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguz93iRhW-YOmMnoT1_ShvS84CsOLz8iHpHodYMCI6k1EsgoyKjnW_JqfYPIMMRsoiEcOvIODPFwXnYz1c-0KQt_6qbcBFpjeaF8O2RtVuGqxPvgtoagh7Dj_v823kpQGX70YQTTo6QBGDg5kRgPi6r3UZ_s33FdkPcaRkjxzf6rOzNZXKkeSm0kAEFg/w476-h433/hotel1.jpeg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Hotel Management System</h3>
@@ -226,110 +226,121 @@ CUSTOMER ROLE
 </p>
 <hr>
 
-- Customers can view all the Products on the Home Page :-
+-  Customers can book the Hotels.
 
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=621px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEjoF_c9TnZfcfR1idlqlcJORD8rkb7Bf3ulE9i_Hi5nCe9F48Ni8oiG_ka354SFfxjJqdO5RyESxlcU2OgdbtnpA96-KqkQL-h8qShVRc0yqWjURwkmwDdeNqfmknhSc8NdICT1FxJ2JSwbJFPHTWkdbqcIRHbPQv_XZeLDwQtrTaPX8hdcbHxwUWaN1A" alt="Project logo"></a>
+ <img width=528px height=289px src="https://blogger.googleusercontent.com/img/a/AVvXsEiXaUfSNjf4zAeWJJkHhGRmSpPLAXMJ91gb84LKHYuMU1NlpCxXOjYOFD5NRQRfstj2gZVUy9ND8s_5EFVMu73Skul242jzpQfXNQWQJJWYiR3-6uq2vCEjQSPMjBhehL1tZ5-iEzsN0apeACRb3vkRSOipJniuky_bxEdFV9eMnmF_bRhNTXaC-xVfGw=w528-h289" alt="Project logo"></a>
 </p>
 <hr>
 
-- Customers can Open a Product to View it in Detail.
+- Customers can add the Review for the Hotels
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=676px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEh773WsEHT8RX321FlSn5ipO9tPD0z_KaN0mqWUvP6G_fuQ8TpbvRUdL72TYA421FYmK5DZZK54QLnZARzH-RxnXnnpG-kqRoOYeSWV9oFK6xPGEbMEq9-27a9ZWhbsijdO9BWcvazUsRnsPP5hyIjH658Yvo1CFKIviK3loxGty7eEbeXQRnshygVFog" alt="Project logo"></a>
+ <img width=512px height=292px src="https://blogger.googleusercontent.com/img/a/AVvXsEjvjAGbHcHcyFun0wJLUao1yYND23MlyRfH4I4zRw_mmqQKBoSDqGxY3cjz4Xs2V_wy7iwYgNTLK8cGVsBHwADXjoce-035ONxGQb_xjELi5vc8e__A8TFdzZIITbK0zJOMy4KSY8BPUPoVpIF_-dRkNtZ-1Due22U12RPT2O65lauphxjlGopkxOQaQw=w512-h292" alt="Project logo"></a>
 </p>
-In the above image, we can see, Customer will be able to see the Product in detail and below that, he can also see Related Products.
 <hr>
 
-- Customer's Cart :-
-
- In the above picture, we can see when we open a Product, we get the option to  Add Product Quantity to the Cart.
-After adding all the required Products, Now, Customer can see his Cart as shown in the below picture.
-<p align="center">
-  <a href="" rel="noopener">
- <img width=731px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEj5R1a2H7__r4hlCCF0VYmF6Jd1rsqDtp6ge4dmDSPzKMN8qa6VD3mSWil81LdyVqNO-E9QYff4__Iv-DFiC_PwyjmVSHUEhjPwQTaTSuSvk95z2gR8I4idhXntqAar-Q9rNQI_7m661AflNSl7bztZqoJ8HK48S2fB8aSuxVF5nwJKki1YO3cf7Kr6_w" alt="Project logo"></a>
-</p>
-
-  Customers can also delete the Product from the Cart by clicking on the delete button in front of the Product.
-Below, the Customer will be able to see the total amount to Pay for the Order.
-<hr>
-
-- Payment for the Order :-
-  
-  In the above pic, below the Total Price for the Order, customers will get the Checkout button, so when the customer will click on it, It will be redirected to the payment page as shown below.
+- Customers can see their Bookings.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=297px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEhVpj9hcx-faCQTUxwfSnoSTmxHPPsYLQ-6stOO3xb8yFGITtDUtjhKSpe2_8-BT1TftO3rcg73AV2VzgUDdxiz_f3lEfyO3yrLTW2rW4Dg9dKIfr92mZMXaGPLhnxtLeBpLHDaC_V9oBByEp4s3R7ltZexD7hqUJu9DsvxLci7-pglo75EzEBzSBWftw" alt="Project logo"></a>
+ <img width=400px height=156px src="https://blogger.googleusercontent.com/img/a/AVvXsEhM8ilqI9AF19XF_sIPS7g01aALilJMqp4AHtdPB9UYh5p6-_ILEbpT0wGRBI8dMGiTaEDr7CtLcAGQq2T1fQq-P84z8AaU3tMZbsdUeEhWmaCgpVVTnaD8QbxCXBr67CkJwYW9puh9QWYN-OF4UkvHWj3BXx0IpczZlzoLnnv0H5huo2nrk6UhlTGRsQ=w400-h156" alt="Project logo"></a>
 </p>
 
-  So after filling in all the details, when the customer will click the Pay button, an Order will be placed for the Customer.
 <hr>
+
 
 ```
 ADMIN ROLE
 ```
-- View All Customer Orders
+- Admin will be able to Register into the System.
 
-  Admin can see all the Customer Orders after the login as shown in the below picture.
-<p align="center">
-  <a href="" rel="noopener">
- <img width=734px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEh-wkDxXRUDy2V16QDkEtVVT8EuCpkVVmxAOpw8_sGYKo8lBzt7TEJCBLBt2Thm603ilwxV2mQ6SjcfQM5hrMHtwUikkGRcfeBcMQjBuENZNKbH8Z0dE1bwg9Oj_wuFdJ5JplH5MtY-m_nZdc_27D6gLFExDiYJk0LeCKmcLGaYgHDa_9Jndeby1SDnPg" alt="Project logo"></a>
-</p>
-
-  Admin can see for the Order, delivery Status is Pending. So from here, the admin can assign the Delivery Person for the Customer Order.
-<hr>
-
-- Assign a Delivery Person for Customer Orders
-
-  As seen in the above picture, For all the Customer Orders, the Delivery Status is Pending. So now, Admin can assign a Delivery Person for the Customer Orders by using the Unique Order Id.
-<p align="center">
-  <a href="" rel="noopener">
- <img width=734px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEifN6gL6SYHP9ROuYAOBVuG76s7pd0qLnS4OJjxSBKN95bCtksEWxSLdonWxlf9r61TJs5wlBb8sI3wfxEjIWIQ_nDBb96PzKJhaGKs1Kx4rW5yom5ndpMdZ2o4tJm0Yf63nz3RVL7HaQqpaMVHEWm7Al6QMhrDFDUXZqlk7gw4CcftFUy3Z1eiLWgD8A" alt="Project logo"></a>
-</p>
-
-<hr>
-
-- Add Category
-
-  Admin can add the Product Categories like laptops, Mobile, Shoes, etc.
-<p align="center">
-  <a href="" rel="noopener">
- <img width=399px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEhPTf_GmUaRSp27uk9IYDlKHO3JLsu6dXceMpeGM08lzU31hY0JwrJg6lGoQ-npoGaXMUav2fQHZYrMHBVrEbn_jFU1-PKJwIYHiL0vgJ1IAtQyLCD2dibg07hmRuRm80Bk8fPNQ0EiMO0f7F9gPdH6_w10dGES-wo3IPvzeDVC6U85Ag84VWr09ByuAQ" alt="Project logo"></a>
-</p>
-<hr>
-
-- Add Products
   
-  Admin can add the Product.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=400px height=350px src="https://blogger.googleusercontent.com/img/a/AVvXsEg4rNLx7cvQGG0d5QYFEnogLeMB_DpfD8w1r0e8Lzn0Y8if2tET6-LIEvjOs41kod8KHizzcoLt1TEt1Y8GuLl6wEiYSsyeEduRdYQ5rkWjMoCmWOXCCbeIu853Ew3xAKkXaD1x65_6CSGtYvVmlYIS4BeQvSY-8sCf6H_owmi3H0ITyj_iTyM0OMecTA=w400-h350" alt="Project logo"></a>
+</p>
+
+<hr>
+
+- Admin can log in to the System.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=203px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEh5_1PWAusFhvX_1c_Sk77b0D2GKce-LTMAK43blSh9R4-z73L46OD_osGbVjIlHtpLBeGM9O7BxWfSjMYzeqxcj3x-GMbw0SSs2BiPlCc_DiNWmm1bFR2JFEqqHGOcMwslp5To4EcshfcQ5jLOBmhtJP6Kc6fQFWVRdP3GnDA8ZRUNAN5pu_RgxnBONw" alt="Project logo"></a>
+ <img width=248px height=240px src="https://blogger.googleusercontent.com/img/a/AVvXsEhI5cBd0nGzMFO24OpeBcsMLe7AwUShbQmkroz3-1WkcpYuYHmqhjWk22BBeomLkkb3bIViTTGumywXFjyMUQTpx22IJKKpcv9jcabA3v_tYxzulEi73guKp5AqMBP8YtmnZdU7hvLhTCTEAyc4IqwZ6Btg2ZUTU57rmlpQo1mS-waIoC9u7GPB9Txxnw" alt="Project logo"></a>
+</p>
+
+<hr>
+
+- Admin can add the Location.
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=277px height=240px src="https://blogger.googleusercontent.com/img/a/AVvXsEgFNQiHRWvAZ7gELMiHKHXsg6zJEZ9-x-FlOhwJINc6BMymOuCZJrimXdfyrQjf-FBPi7EZO7zX86zlBg1qRGvcPnRQXWppDPBtoQQEP06m1CIAC1lBJn3c3qxZYWnmcBtUX8_ZboHya_Gp6eRyeNfVyxcUpzTS0Est1AR1uu1lBNbRq1NjH-UTmcjluA" alt="Project logo"></a>
+</p>
+<hr>
+
+- Admin can add the Facility.
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=277px height=240px src="https://blogger.googleusercontent.com/img/a/AVvXsEjElnKwnsfTJZlHKi0qJtnLyQ4teNeKATlElzfPzX4K-vAm3lhaQ4p0TSM45bwH6zvJ6L4_ORNQt7hXxPcKJfWy1o4poGXPY7h_mpX5Os4KHq1YN7dTpxBBh2ru2S2G1MMPrHfBgQbHIykdF0ZPUraA0a89Dppk-RH0SbBoHa7DpaSCeD5jQq1Btjr3Eg" alt="Project logo"></a>
+</p>
+<hr>
+
+- Admin can register the Hotel Manager
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=400px height=347px src="https://blogger.googleusercontent.com/img/a/AVvXsEhJ6mRWmTYUcNI-yoAeovutmTrjgBZqWYvbAb1T3kTbR1k0MPOybBJ3RTTkvU7OOY_jXnYhnBIhJbwNBiE8OW7eUUz1-qlVOvpfTh68qRg-kNhQVu8ciyOLO2f_xf2zA1rd_tgeC60MkGid7-c9GueesPZm_rwkQ4k3jFUwAW_9t2HkLCuc-ZbBPkPIuw=w400-h347" alt="Project logo"></a>
+</p>
+<hr>
+
+- Admin can add the Hotel.
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=400px height=381px src="https://blogger.googleusercontent.com/img/a/AVvXsEi2AhO6Cr2kI4uD9HXgwTUm65tB4wrU5kI3Fj43_UW_d0qkFOQVtXQGK926jNeHuRseNnQ2_97uW_uCs2Ly4TKCml49f6vJekrx7z3aZYnnQPjuZca8WRH4aLHKN4IHyPc6RUxH9rREFgHwvmimtd28u-_k9cOZR-SsVNS0KIU_a82lBsj9iZLFra0_jg=w400-h381" alt="Project logo"></a>
+</p>
+<hr>
+
+- Admin can add, or delete the facilities to the Hotel after registration of the Hotel. 
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=357px height=301px src="https://blogger.googleusercontent.com/img/a/AVvXsEgzeQIx7dYcwyIvVA1eVjvbZO4V7zopik32DrfnBY68WcmpRpLM0n6CAnSwsjfa3kZ_-RfAg6R9tOf5IGg_Fy9Z9wkFWZjSePuHPy4msOsvnVJDBmjmjaZDdeUs_3CpxmJSB3IH4jiM79_-ZhKLQNMJTn4qNKBpsqY-kk57GPZ8FKELbV2jSqH8GQjHJw=w357-h301" alt="Project logo"></a>
+</p>
+<hr>
+
+- Admin can see all the bookings.
+  
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=504px height=227px src="https://blogger.googleusercontent.com/img/a/AVvXsEhP0mQtxeIbIiuOM7H0rpPt0yBHhIFah4tYkcFZuQKMFYlkydruR8h4KuQbytfmLzCsm_Z9q-oO2Z5k2nDbTf0NaBYfppkrhH2PdfrbSlp8q7Mw5fhhYP7jLkk97mx-xU2fHlK2bC44g-54C6WkxFXW3x6P_8ZxKXCWHFFuMx7IHs5qdHzWo3_fqAG5-w=w504-h227" alt="Project logo"></a>
 </p>
 <hr>
 
 ```
-DELIVERY PERSON ROLE
+HOTEL ROLE
 ```
-- View My Deliveries
+- Hotel Manager can see all the customer bookings.
 
-  Delivery Person can see all the Orders which are assigned to him by the Admin as shown below.
+ 
 <p align="center">
   <a href="" rel="noopener">
- <img width=735px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEiyZxYH7GSJqdxDXARmU1s7ri7PMRy9aYdWz8K-fI-6Rihqtje_Ob51r4W3XWKdGEeXwdydCf_iynbdIdy3Z-78AcUTL4TYirDXF__Tt84ytgOqpt1pinO3TJAOIWhkQZ80oHmWPE1iHcdzoJagNK9ljEfApoZggie2ykb0jA9abodhNQs3pGKwhBe32Q" alt="Project logo"></a>
+ <img width=540px height=210px src="https://blogger.googleusercontent.com/img/a/AVvXsEijPUFs1eDOMeGhEa3P9O_oc54amg1qi_7MkTL6iylycPzYpd-iC2SFpRWJid-IIgyunuV3QqutKYrkcrxLpejaYqGuBXhzDWnM9EFiKQ3aNu9gIZjupYLrcP_yejDTUNeBczwq4lajLpb302KTtMTZtQM1ApZ-Nixed2cxBfeAK3rjMFe1-nCvlJ4_Jg=w540-h210" alt="Project logo"></a>
 </p>
 <hr>
 
-- Update the Delivery Status for the Order.
+-  Hotel Manager can update the Customer Booking Status.
 
-  In the above picture, the Delivery Person can see the Delivery Status, and Time as Pending. So from here, Delivery Person can update the Delivery Status and Time as per his expectation    as shown below.
+
 <p align="center">
   <a href="" rel="noopener">
- <img width=747px height=348px src="https://blogger.googleusercontent.com/img/a/AVvXsEjoAPIy9hB-V2RQ1pP2uLVy8unywiMSc_AC0EETB64hlbCzTe8B6d72e3TUkfeHkyuDReHmyeB-j7WofGxRG70n0Zt46xOG-ASRN9-ZdklKvf75Q0c_O2daMx7bvRxRc63NQQlVCxo6erNaQi9F1jkjAKpr16uj1_Qap-OenNxbYx2oHCC-l1He86B9sw" alt="Project logo"></a>
+ <img width=375px height=314px src="https://blogger.googleusercontent.com/img/a/AVvXsEiTen8Oc_-zrWor_aOfuvNpwcOMbYD_tZx2P1sXRvOqrlvpMXIB3juSlJ00OtfuOGxBkDlKnqnjGluH6J9liQLHNds8OiYEM8p3F79hByA38_pC_e1canY9OBhv2m3KJiOx4gy7NHMm_obBrzK5e1EdvdHnXU7G2Szn9FE0aCXMkiyUv4GlTjNdq24H1Q=w375-h314" alt="Project logo"></a>
 </p>
 <hr>
 
@@ -436,14 +447,25 @@ NOTE:- Initially the admin need to add products and category as shown in modules
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
  <h2>Inspiration :-</h2>
  
-- Full-stack Development: Developing an E-commerce project with React JS, Spring Boot, and MySQL allows you to showcase your skills in both frontend and backend development. It offers an opportunity to work with modern JavaScript frameworks, build efficient APIs, and handle data persistence.
-- React JS - Rich User Interface: React JS is a popular JavaScript library for building user interfaces. It offers a component-based architecture, allowing you to create reusable UI components, manage state efficiently, and provide a seamless and responsive user experience.
-- Spring Boot - Powerful Backend Framework: Spring Boot is a robust Java framework that simplifies backend development. It provides features like dependency injection, easy configuration, and a wide range of libraries for building RESTful APIs, handling security, and integrating with databases.
-- MySQL - Reliable Database Management: MySQL is a widely used open-source relational database management system. It offers stability, performance, and scalability, making it a suitable choice for handling product data, user information, and order management in an e-commerce application.
-- E-commerce Demand: E-commerce is a rapidly growing industry with increasing demand. Developing an E-commerce Online Shopping Project allows you to explore real-world scenarios, such as product listing, searching, filtering, user authentication, shopping cart management, and order processing.
-- Learning Opportunities: Building an E-commerce project using these technologies provides an excellent learning experience. You can gain expertise in frontend development with React JS, backend development with Spring Boot, API integration, database management with MySQL, and the overall development workflow.
-- Portfolio and Career Growth: Completing an E-commerce project using React JS, Spring Boot, and MySQL adds a valuable project to your portfolio, showcasing your skills and capabilities as a full-stack developer. It can attract potential employers, clients, or collaborators and open doors to new career opportunities.
-- Customizability and Scalability: By building your own E-commerce project, you have the freedom to customize and tailor it to specific business requirements. You can implement custom features, integrate payment gateways, optimize performance, and scale the application as the business grows.
+- Personal Experience: Reflect on your own experiences with hotel booking systems. Think about the features that you found helpful and the aspects that could be improved. By building your own system, you can tailor it to meet your specific needs and preferences.
+
+- Market Research: Conduct thorough research on existing hotel booking platforms. Analyze their strengths, weaknesses, and unique features. Use this information to identify gaps in the market and determine how your system can offer something different and valuable.
+
+- User Surveys and Feedback: Conduct surveys or interviews with potential users, such as travelers or hotel owners, to understand their pain points and requirements. This will help you prioritize features and design a user-friendly interface.
+
+- Open Source Projects: Explore open-source hotel booking projects built with React JS, Spring Boot, or MySQL. Studying their code and architecture can provide valuable insights and serve as a solid foundation for your own project.
+
+- Tutorials and Online Courses: Look for tutorials or online courses specifically focused on building a hotel booking system using React JS, Spring Boot, and MySQL. Following these guides step-by-step can help you understand the development process and best practices.
+
+- Design Inspiration: Look for design inspiration on websites like Dribbble or Behance. A visually appealing and intuitive user interface can greatly enhance the overall user experience.
+
+- APIs and Integrations: Explore APIs and services that you can integrate into your system. For example, you can use payment gateways for handling transactions or location APIs to display nearby attractions or points of interest.
+
+- Performance and Security: Research best practices for optimizing the performance of React JS applications and securing Spring Boot APIs. A fast and secure system is crucial for a successful hotel booking platform.
+
+- Collaboration and Feedback: Consider collaborating with other developers or seeking feedback from experienced developers. Online developer communities and forums can be valuable resources for guidance and advice.
+
+- Innovation and Uniqueness: Brainstorm ideas to make your hotel booking system stand out from the crowd. Think about innovative features, such as personalized recommendations, virtual tours of hotel rooms, or loyalty programs.
   
 <h2> References </h2> 
 
