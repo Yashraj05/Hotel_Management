@@ -5,13 +5,13 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">E-commerce Online Shopping</h3>
+<h3 align="center">Hotel Management System</h3>
 
 
 
 ---
 
-<p align="center"> The E-commerce Online Shopping Project is a web application developed using React JS, Spring Boot, and MySQL. It aims to provide a user-friendly and efficient platform for online shopping. The front-end is built with React JS, ensuring a responsive and interactive user interface. The back-end is powered by Spring Boot, which handles the business logic, data processing, and API integrations. The MySQL database stores product information, user details, and order data, ensuring secure and reliable data storage.
+<p align="center"> The Hotel Booking System Project is a web application built using the React JS front-end framework, Spring Boot back-end framework, and MySQL database. It aims to provide a user-friendly and efficient platform for hotel management, allowing users to search, book, and manage hotel reservations.
     <br> 
 </p>
 
@@ -26,13 +26,17 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-In this project, all the main functionalities have been which should be present in any Ecommerce Project or Online Shopping Project. 
+Hotel Booking Management Project is a software using which Hotel Managers can handle customer bookings with ease, and Customers can easily book Hotels at any location by sitting at home. 
 
-When a user visits our application for the first time, he will be able to see all the Products on the Home Page by default, he can also search the products based on the product categories which was added by the Administrator. After that User can log in and add the products to the Cart, and he can add multiple products to Cart with his required quantity, User can also delete the product from the Cart at any time.  
+So first Administrator will register and login into the system and after the login, he can add the Locations and All the Facilities which multiple Hotels can have. After this Admin can Register the Hotel into the application but before adding the Hotel, Admin has to register the Hotel Manager because when he adds the hotel he has to select the Hotel Manager who will manage the bookings. 
 
-After this, the User can Order the products which are present in his Cart. During the Order placing, the User will be redirected to the Dummy Payment Page for the Order Payment. After the payment, all the products which were present in the Cart will be Ordered and he will get Order Id for the reference, And now he can also see his Orders, Delivery Person Details, and Delivery Status.
+Now Since Admin has added the Hotels, so now Customers can book the hotels, but at first, the booking status will be Pending, since the customer has booked the hotel, so now Hotel Manager will be able to see all the customer bookings. 
 
-After the Customer Orders, Admin can all the Orders made by All the Customers. And now,  Admin can assign a Delivery Person for the Order by using the Customer Order Id. Now, After Assigning the Delivery Person, that particular Customer will be able to see the assigned Delivery Person who will deliver his Orders. And this Delivery Person will update the customer's Order Delivery Status like at what date and time the order is expected to deliver.
+The hotel Manager can update the booking status based on the Hotel Room Availability. The manager can Approve the Booking or Cancel the Booking. After this customer can see the updated Booking status. 
+
+Customers can rate and review the Hotels out of 5, once review is added it will be visible to all.
+
+In the end, Admin will be able to see the complete details like all customer bookings, all hotels, all customers, and all hotel managers.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -194,21 +198,18 @@ User Module:
 
 The project contains 3 Module:
 
-1) Admin
-
-2) Customer
-
-3) Delivery Person
+1) ADMINISTRATOR MODULE
+2) HOTEL MANAGER MODULE
+3) CUSTOMER MODULE
 
 Functional Modules:
 
 1) User Authentication Module
-2) Product Module
-3) Product Category Module
-4) Cart Module
-5) Order Module
-6) Delivery Module
-7) Payment Module
+2) Hotel Module
+3) Location Module
+4) Facility Module
+5) Review Module
+6) Booking Module
 
 User Role-Wise Functionalities:
 
@@ -216,10 +217,13 @@ User Role-Wise Functionalities:
 CUSTOMER ROLE 
 ```
 
-- Register & Login User :
-  Register & Login of User is Role Based. During the Registration & Login, we have to select the Role like Admin, Customer, or Delivery Person.
+-  Customers can see all the Hotels, Locations, and Facilities.
+  
 
-<div class="separator" style="clear: both; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://blogger.googleusercontent.com/img/a/AVvXsEjOglqiGoDrYkz1Zp9pp9dPq0dGBA1l1w0FdgPhHaDnkvCjDiGkwlg5zyS4pegt15eLUbLR1zIuDL14jwkJddka-a73w7hBoxHgADyUQlEogz8O28WqONqkfCr6D0RZl_MlqbCY7nPYWvX7l6QQHHEAUEOEgeg9GhgsfPKUVQXvr56gAQBOXnZ7BQNlIg" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="901" data-original-width="389" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEjOglqiGoDrYkz1Zp9pp9dPq0dGBA1l1w0FdgPhHaDnkvCjDiGkwlg5zyS4pegt15eLUbLR1zIuDL14jwkJddka-a73w7hBoxHgADyUQlEogz8O28WqONqkfCr6D0RZl_MlqbCY7nPYWvX7l6QQHHEAUEOEgeg9GhgsfPKUVQXvr56gAQBOXnZ7BQNlIg=w139-h320" width="139"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blogger.googleusercontent.com/img/a/AVvXsEgkxv80seYNj9LpQsrAGbqOj6BcPoDvYzvdeK9BNAYo9ryeuLEetae6nuAphDEW4mhWJUzNAccF4Rf7OEJFQjjylalc-TKhAC_v5oFI-aD3tHE7s-F75k-BQ_T1w50X4yi2WOInCRBlfsG8SX8uejc1E5SD25pqC56Q14jMvrWpQARNfza_nCjkfQin4g" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img alt="" data-original-height="376" data-original-width="383" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEgkxv80seYNj9LpQsrAGbqOj6BcPoDvYzvdeK9BNAYo9ryeuLEetae6nuAphDEW4mhWJUzNAccF4Rf7OEJFQjjylalc-TKhAC_v5oFI-aD3tHE7s-F75k-BQ_T1w50X4yi2WOInCRBlfsG8SX8uejc1E5SD25pqC56Q14jMvrWpQARNfza_nCjkfQin4g" width="244"></a></div>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=530px height=299px src="https://blogger.googleusercontent.com/img/a/AVvXsEhZYOO37hBvmY8sDR7MbkbRBxpX-jBMQZGX2V8BHlWsTejyset66cdpsdLbkGcIzewi7uBEif4htvyic-Y8zLZOa053VkxPO6ZZOXVJUo0UvpGctjwIMuVuVTmEHEMUbWMffBFhUBcRvGx8rEvLzlqcMpkW5cz9KQWlaj4RV4BmCl_LnGFzpGaeNf0KoA=w530-h299" alt="Project logo"></a>
+</p>
 <hr>
 
 - Customers can view all the Products on the Home Page :-
